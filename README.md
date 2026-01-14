@@ -1,50 +1,68 @@
-# Hi 👋, I'm Bhupesh Rawat
+<!-- Dark banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F0D&height=120&section=header&text=Bhupesh%20Rawat&fontColor=E6E6E6&fontSize=45&fontAlignY=70" />
+</p>
 
-🎓 Computer Science undergraduate at Chandigarh University  
-🧠 Interested in **AI/ML, full-stack development, and backend systems**  
-🐧 Comfortable working in **Linux-based environments**  
-⚙️ I enjoy building **scalable, clean and efficient software**
-
----
-
-## 🛠️ Tech Skills
-
-- **Languages:** Python, C++, C, JavaScript, Go, Bash, Lua, SQL  
-- **Web:** Django, React, Node.js, Express.js, HTML, CSS, Tailwind CSS  
-- **AI/ML & Data:** TensorFlow, Keras, OpenCV, NumPy, Pandas, basic NLP  
-- **Tools & Platforms:** Git, Docker, Linux, MongoDB, Postman, cURL, Neovim
+<!-- animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6E6E6&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Backend+Engineer;Open+Source+Learner" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🧭 About Me
 
-- **Deepfake Detection System** – CNN + Bi-LSTM based video forgery detection with web interface  
-- **Video Summarizer** – AI tool that generates summaries from long-form YouTube videos  
-- **Real-Time Auction Platform** – live bidding system using WebSockets and Django  
-- **Personal Wiki Platform** – markdown-powered knowledge management app with search & categories  
-
-> Most of these projects involve **backend development, AI pipelines, real-time systems, or full-stack web apps**.
-
----
-
-## 🏅 Achievements & Certifications
-
-- Published research paper on **deepfake video detection (IEEE)**  
-- Completed **CS50x** and **CS50 Web Programming** from HarvardX  
+- 🎓 Computer Science undergraduate at **Chandigarh University**
+- 🤖 Passionate about **AI/ML & Deep Learning**
+- 🛠️ Love building **backend systems and real-time apps**
+- 🐧 Linux + terminal + Neovim enjoyer
+- 💡 Focus: **clean, scalable, efficient code**
 
 ---
 
-## 🎯 Current Focus
+## 🧩 Tech Stack
 
-- Improving expertise in **AI/ML model deployment**
-- Building **end-to-end full-stack projects**
-- Contributing to **open-source**
+### 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,go,bash,lua,sqlite,mysql,postgres" />
+</p>
+
+### 🧰 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,express,opencv,tensorflow" />
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,neovim,mongodb" />
+</p>
 
 ---
 
-## 📫 Contact
+## 🌑 Featured Projects
 
-- Email: **bhupesh178355@gmail.com**
-- LinkedIn / GitHub / Portfolio: available on profile links
+- 🔍 **Deepfake Detection System** — CNN + Bi-LSTM deepfake video classifier  
+- 🧠 **AI Video Summarizer** — NLP summaries for long YouTube videos  
+- ⚡ **Real-Time Auction Platform** — Django + WebSockets live bidding  
+- 📚 **Personal Wiki Platform** — markdown knowledge base with search  
+
+> I like working at the intersection of **AI + Backend + Systems**.
 
 ---
+
+## 🏅 Highlights
+
+- 📝 Published **IEEE paper on deepfake video detection**
+- 🎓 Completed **Harvard CS50 & CS50 Web Programming**
+
+---
+
+## 📫 Contact Me
+
+📧 **bhupesh178355@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0F0D&height=80&section=footer&text=Thanks%20for%20visiting!&fontColor=E6E6E6&fontSize=28&fontAlignY=60" />
+</p>
